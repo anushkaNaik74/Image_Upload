@@ -12,7 +12,7 @@
             margin: 0px auto;
             margin-top: 10rem;
             margin-bottom: 10px;
-            background-color:#F8FBFE;
+            background-color:#9DB0EC;
             padding: 10rem 1rem 10rem auto;
             align-items: center;
         }
